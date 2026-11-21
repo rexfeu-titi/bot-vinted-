@@ -1,0 +1,5 @@
+python-telegram-bot[job-queue]
+anthropic
+pillow
+requests
+python-dotenv
